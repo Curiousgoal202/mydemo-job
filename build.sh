@@ -1,1 +1,1 @@
-echo 'Hello from Jenkins Buil' 
+echo 'Great' 
